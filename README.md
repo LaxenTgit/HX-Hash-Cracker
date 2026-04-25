@@ -7,7 +7,7 @@
 
 git clone https://github.com/LaxenTgit/HX-Hash-Cracker
 
-cd haxtery-list
+cd HX-Hash-Cracker
 
 pip install -r requirements.txt
 
@@ -40,9 +40,9 @@ python3 main.py <hash> -l 6
 
 # Repo klonla
 
-git clone https://github.com/KULLANICIADIN/haxtery-list
+git clone https://github.com/LaxenTgit/HX-Hash-Cracker
 
-cd haxtery-list
+cd HX-Hash-Cracker
 
 pip install -r requirements.txt
 
